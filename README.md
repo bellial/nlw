@@ -1,4 +1,4 @@
-# NLW Return
+# NLW Return - Feedback Widget
 
 Projeto da Rocketseat utilizando React, Typescript.
 
